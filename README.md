@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @charlesrdarwin
 - 👀 I’m interested in bioinformatics.
-- 🌱 I’m currently learning R and Python.
-- 💞️ I’m looking to collaborate on projects in bioinformatics.
 - 📫 How to reach me: send me a message here on github!
 
 <!---
